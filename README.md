@@ -18,6 +18,8 @@ leave-one-covariate out (LOCO) and local interpretable model-agnostic explanatio
  - if features strongly correlate with each other
  - if the model does not correctly model causal relationships
 - if parameters of the interpretation method are not set correctly
+
+
 This book is the outcome of the seminar “Limitations of Interpretable Machine Learning” which took place in summer 2019 at the Department of Statistics, LMU Munich.
 
 https://compstat-lmu.github.io/iml_methods_limitations/
@@ -58,6 +60,27 @@ Understanding**
 https://www.nature.com/articles/s42256-019-0138-9
 https://arxiv.org/pdf/1905.04610.pdf
 
+## AI4EU
+This page is meant to be an accessible entry point to what is meant by
+ “Explainable AI”, and to the resources on Explainable AI that are available
+  in the AI4EU AI on-demand platform.
+   This guide is part of the broader AI4EU scientific vision
+    on “Human-centered AI”.
+    
+    https://www.ai4eu.eu/simple-guide-explainable-artificial-intelligence
+    
+**AAAI 2019 Tutorial On Explainable AI:From Theory to Motivation, Applications and Limitations:** 
+   Great tutorial with a lot of slides
+
+   https://xaitutorial2019.github.io/
+   https://github.com/xaitutorial2019/xaitutorial2019.github.io/raw/master/slides/aaai_2019_xai_tutorial.pdf
+   
+ **T3: SHAP-Tree-MCDA:** an explanation module for hierarchical Multi-Criteria Decision Aid (MCDA) models.
+  The module computes the level of contribution of each node in the tree when comparing two options
+   described by a value over each attribute.
+
+ - Link to the tool: https://www.ai4eu.eu/resource/shap-tree-mcda
+ - Research paper: https://www.ijcai.org/Proceedings/2018/0046.pdf
 ## Lime
 
 
