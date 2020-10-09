@@ -81,6 +81,19 @@ This page is meant to be an accessible entry point to what is meant by
 
  - Link to the tool: https://www.ai4eu.eu/resource/shap-tree-mcda
  - Research paper: https://www.ijcai.org/Proceedings/2018/0046.pdf
+ 
+ ## Review papers
+ Principles and Practice of Explainable Machine Learning
+ https://arxiv.org/abs/2009.11698
+ 
+ Stop explaining black box machine learning models
+  for high stakes decisions and use interpretable models instead
+   https://www.nature.com/articles/s42256-019-0048-x
+   
+   Explaining explanation in AI https://arxiv.org/abs/1811.01439
+   
+   Explanation in Artificial Intelligence: Insights from the Social Sciences https://arxiv.org/abs/1706.07269
+ 
 ## Lime
 
 
