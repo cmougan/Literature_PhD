@@ -99,4 +99,8 @@ This page is meant to be an accessible entry point to what is meant by
 
 ## Consensus
 
+## Python Implementations
+Shapley - https://github.com/slundberg/shap
+Lime - https://github.com/marcotcr/lime
 
+Alibi - Conterfactual, ALE, anchors for images, integrated gradients for text https://github.com/SeldonIO/alibi
