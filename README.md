@@ -94,6 +94,12 @@ This page is meant to be an accessible entry point to what is meant by
    
    Explanation in Artificial Intelligence: Insights from the Social Sciences https://arxiv.org/abs/1706.07269
  
+ 
+## Decision Tree and RF Path explainers
+
+A. Saabas. treeinterpreter Python package. url: https://github.com/andosa/treeinterpreter.
+
+Blog http://blog.datadive.net/interpreting-random-forests/ 
 ## Lime
 
 
