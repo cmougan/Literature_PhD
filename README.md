@@ -92,7 +92,8 @@ This page is meant to be an accessible entry point to what is meant by
    
    Explaining explanation in AI https://arxiv.org/abs/1811.01439
    
-   Explanation in Artificial Intelligence: Insights from the Social Sciences https://arxiv.org/abs/1706.07269
+   Explanation in Artificial Intelligence: Insights from the Social Sciences
+    https://arxiv.org/abs/1706.07269
  
  
 ## Decision Tree and RF Path explainers
@@ -100,13 +101,22 @@ This page is meant to be an accessible entry point to what is meant by
 A. Saabas. treeinterpreter Python package. url: https://github.com/andosa/treeinterpreter.
 
 Blog http://blog.datadive.net/interpreting-random-forests/ 
+
+Understanding Random Forests: From Theory to Practice 
+Phd thesis https://arxiv.org/abs/1407.7502
+
 ## Lime
 
 
 ## Consensus
+
 
 ## Python Implementations
 Shapley - https://github.com/slundberg/shap
 Lime - https://github.com/marcotcr/lime
 
 Alibi - Conterfactual, ALE, anchors for images, integrated gradients for text https://github.com/SeldonIO/alibi
+
+## Counterfactual explanations
+The paper: https://arxiv.org/pdf/1905.07697.pdf
+Implementation: https://github.com/interpretml/DiCE
