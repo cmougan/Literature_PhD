@@ -95,7 +95,8 @@ This page is meant to be an accessible entry point to what is meant by
    Explanation in Artificial Intelligence: Insights from the Social Sciences
     https://arxiv.org/abs/1706.07269
  
- 
+ ## On Defining Interpretability
+ The Mythos of Model Interpretability https://arxiv.org/abs/1606.03490
 ## Decision Tree and RF Path explainers
 
 A. Saabas. treeinterpreter Python package. url: https://github.com/andosa/treeinterpreter.
@@ -120,3 +121,7 @@ Alibi - Conterfactual, ALE, anchors for images, integrated gradients for text ht
 ## Counterfactual explanations
 The paper: https://arxiv.org/pdf/1905.07697.pdf
 Implementation: https://github.com/interpretml/DiCE
+
+Counterfactual Explanations without Opening the Black Box:
+ Automated Decisions and the GDPR
+https://arxiv.org/abs/1711.00399
