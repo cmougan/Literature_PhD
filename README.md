@@ -6,6 +6,18 @@ The book focuses on machine learning models for tabular data (also called relati
  and less on computer vision and natural language processing tasks. 
 https://christophm.github.io/interpretable-ml-book/
 
+## Approximately Correct - Technical and Social Perspectives on Machine Learning
+
+http://approximatelycorrect.com/
+
+Building intelligent systems applicable in the real world requires more than prediction.
+Driving decisions requires causal insights.
+Reliability requires models that are provably robust under clear assumptions.
+Deploying data-driven technology in society requires accounting for the complex dynamics and feedback loops mediating this interaction.    
+Aligning with social desiderata such as fairness requires a philosophically coherent treatment.
+ACMI lab studies core machine learning methods, their applications in healthcare, and their social impacts. 
+We seek to address these outer loop questions,
+while leveraging breakthroughs in representation learning to address the diverse raw data sources that deep learning has made accessible.
 
 ## Limitations of Interpretable Machine Learning Methods
 This book explains limitations of current methods in interpretable machine learning. 
@@ -31,7 +43,10 @@ This book is the result of a student projects for Interpretable
 
 https://pbiecek.github.io/xai_stories/
 
-## Interpreting random forests
+## Interpreting Decision trees & random forests
+
+Variable Importance Using Decision Trees
+https://papers.nips.cc/paper/2017/hash/5737c6ec2e0716f3d8a7a5c4e0de0d9a-Abstract.html
 
 Turning a black box into a white box: decision paths
 When considering a decision tree, it is intuitively clear that for each decision that a tree (or a forest) makes there is a path (or paths) from the root of the tree to the leaf, consisting of a series of decisions, guarded by a particular feature, each of which contribute to the final predictions.
@@ -125,3 +140,6 @@ Implementation: https://github.com/interpretml/DiCE
 Counterfactual Explanations without Opening the Black Box:
  Automated Decisions and the GDPR
 https://arxiv.org/abs/1711.00399
+
+## Explaining by example
+Case-Based Explanation of Non-Case-Based Learning Methods - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2232607/pdf/procamiasymp00004-0249.pdf
